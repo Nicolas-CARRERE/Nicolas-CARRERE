@@ -4,10 +4,9 @@ Over this period, I worked a lot on HMIs, data processing and the provision of k
  
 🚀 Anxious to improve myself and practice in business, I want to continue my diploma training course. For this, I am already looking for a work-study contract from March 2023 to February 2024 🗓️
 
-<ul>
-<li>[![ANicolas-CARRERE GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-CARRERE&show_icons=true&theme=transparent)](https://github.com/Nicolas-CARRERE/github-readme-stats)</li>
-<li>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-CARRERE&show_icons=true&theme=transparent&layout=compact)](https://github.com/Nicolas-CARRERE/github-readme-stats)</li>
-</ul>
+[![ANicolas-CARRERE GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-CARRERE&show_icons=true&theme=transparent)](https://github.com/Nicolas-CARRERE/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-CARRERE&show_icons=true&theme=transparent&layout=compact)](https://github.com/Nicolas-CARRERE/github-readme-stats)
+
 
 
 
