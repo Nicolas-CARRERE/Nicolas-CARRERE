@@ -4,13 +4,15 @@ Over this period, I worked a lot on HMIs, data processing and the provision of k
  
 🚀 Anxious to improve myself and practice in business, I want to continue my diploma training course. For this, I am already looking for a work-study contract from March 2023 to February 2024 🗓️
 
-[![ANicolas-CARRERE GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-CARRERE&show_icons=true&theme=tokyonight)](https://github.com/Nicolas-CARRERE/github-readme-stats)
+[![ANicolas-CARRERE GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-CARRERE&show_icons=true&theme=transparent)](https://github.com/Nicolas-CARRERE/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-CARRERE&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Nicolas-CARRERE/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-CARRERE&show_icons=true&theme=transparent&layout=compact)](https://github.com/Nicolas-CARRERE/github-readme-stats)
 
 <a href="https://github.com/Nicolas-CARRERE/github-readme-stats">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=Nicolas-CARRERE&show_icons=true&theme=tokyonight)](https://github.com/Nicolas-CARRERE/github-readme-stats)" />
+  <img align="center" src="([![ANicolas-CARRERE GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-CARRERE&show_icons=true&theme=transparent)](https://github.com/Nicolas-CARRERE/github-readme-stats)" />
 </a>
 <a href="https://github.com/Nicolas-CARRERE/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-CARRERE&repo=convoychat" />
 </a>
+
+[![Nicolas-CARRERE's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nicolas-CARRERE)](https://github.com/Nicolas-CARRERE/github-readme-stats)
