@@ -8,9 +8,9 @@ Over this period, I worked a lot on HMIs, data processing and the provision of k
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-CARRERE&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Nicolas-CARRERE/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Nicolas-CARRERE/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-CARRERE&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Nicolas-CARRERE/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas-CARRERE&repo=convoychat" />
 </a>
