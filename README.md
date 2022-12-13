@@ -15,7 +15,7 @@ It's a cool website where you face challenges and you get leveled by how good
 you do. It isn't limited to JavaScript or any or the languages you can find in
 this repo, it even has Kotlin!
 
-[![Profile badge](https://www.codewars.com/users/Nicolas-CARRERE/badges/large)](https://www.codewars.com/users/Nicolas-CARRERE/badges/large)
+[![Profile badge](https://www.codewars.com/users/Nicolas-CARRERE/badges/large)](https://www.codewars.com/users/Nicolas-CARRERE)
 
 ## Leveling System
 
