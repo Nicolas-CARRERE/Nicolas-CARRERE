@@ -6,7 +6,7 @@ Over this period, I worked a lot on HMIs, data processing and the provision of k
 
 📎 Follow me on Linkedin :arrow_right: [Nicolas CARRERE](www.linkedin.com/in/nicolas-carrère-85855210b)
 
-[![Profile badge]([https://www.codewars.com/users/Nicolas-CARRERE/badges/large](https://www.codewars.com/users/Nicolas-CARRERE/badges/large))]
+[![Profile badge](https://www.codewars.com/users/Nicolas-CARRERE/badges/large)](https://www.codewars.com/users/Nicolas-CARRERE/badges/large)
 
 [![Nicolas-CARRERE GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-CARRERE&show_icons=true&theme=transparent&count_private=true&hide=issues)](https://github.com/Nicolas-CARRERE/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-CARRERE&show_icons=true&theme=transparent&layout=compact&count_private=true&card_width=445)](https://github.com/Nicolas-CARRERE/github-readme-stats)
