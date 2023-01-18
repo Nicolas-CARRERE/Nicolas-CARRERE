@@ -8,7 +8,7 @@ Over this period, I worked a lot on HMIs, data processing and the provision of k
 
 
 [![Nicolas-CARRERE GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-CARRERE&show_icons=true&theme=transparent&count_private=true)](https://github.com/Nicolas-CARRERE/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-CARRERE&show_icons=true&theme=transparent&layout=compact&count_private=true&card_width=500px)](https://github.com/Nicolas-CARRERE/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-CARRERE&show_icons=true&theme=transparent&layout=compact&count_private=true&card_width=450px)](https://github.com/Nicolas-CARRERE/github-readme-stats)
 
 # CodeWars
 It's a cool website where you face challenges and you get leveled by how good
