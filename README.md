@@ -90,9 +90,9 @@ Over this period, I worked a lot on HMIs, data processing and the provision of k
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nicolas-CARRERE&show_icons=true&count_private=true&hide_border=true&theme=transparent&width=500" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nicolas-CARRERE&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-CARRERE&hide_border=true&layout=compact&theme=transparent&count_private=true&width=500" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-CARRERE&hide_border=true&layout=compact&theme=transparent&count_private=true" align="center" /></div>  
 
 <br/>  
 
