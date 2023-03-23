@@ -91,6 +91,8 @@ Over this period, I worked a lot on HMIs, data processing and the provision of k
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-CARRERE&hide_border=true&layout=compact&theme=transparent&count_private=true" align="center" /></div>  
 
+<figure><embed src="https://wakatime.com/share/@51537a46-1e8b-46a4-bca8-b0fc91791003/6cd81352-ceb3-4732-8d80-5cdb72a3dd52.svg"></embed></figure>
+
 <br/>  
 
 
@@ -122,6 +124,3 @@ this repo, it even has Kotlin!
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
