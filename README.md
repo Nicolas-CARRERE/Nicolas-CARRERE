@@ -27,7 +27,8 @@ Over this period, I worked a lot on HMIs, data processing and the provision of k
 </div>
 
 </td><td valign="top" width="25%">
-### Frontend  
+
+  ### Frontend  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -39,7 +40,8 @@ Over this period, I worked a lot on HMIs, data processing and the provision of k
 </div>
 
 </td><td valign="top" width="25%">
-### Backend  
+
+  ### Backend  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -53,7 +55,8 @@ Over this period, I worked a lot on HMIs, data processing and the provision of k
 </div>
 
 </td><td valign="top" width="25%">
-### DevOps  
+
+  ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
